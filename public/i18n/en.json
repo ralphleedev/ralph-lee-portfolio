@@ -139,5 +139,16 @@
             "title": "Cookies",
             "body": "This website does not use advertising cookies or audience measurement tools."
         }
+    },
+    "projects": {
+        "intro": {
+            "title": "Projects",
+            "body": "A growing collection of ideas brought to life through experimentation, exploration, and a little curiosity. Each project tells a different story about how I think, create, and approach challenges."
+        },
+        "coming-soon": {
+            "title": "What's next?",
+            "title2": "More Projects are on the way",
+            "body": "I'm currently working on new things to share. Check back soon to see what I've been building."
+        }
     }
 }

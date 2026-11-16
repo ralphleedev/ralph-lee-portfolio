@@ -109,7 +109,7 @@
         }
     },
     "legal": {
-        "title" : "Mentions Légales",
+        "title": "Mentions Légales",
         "last-updated": "Dernière mise à jour : 12 novembre 2026",
         "publisher": {
             "title": "Éditeur du site",
@@ -138,6 +138,17 @@
         "cookies": {
             "title": "Cookies",
             "body": "Ce site n'utilise aucun cookie publicitaire ni outil de mesure d'audience."
+        }
+    },
+    "projects": {
+        "intro": {
+            "title": "Projets",
+            "body": "Une collection grandissante d’idées concrétisées à travers l’expérimentation, l’exploration et une bonne dose de curiosité. Chaque projet raconte une histoire différente sur ma façon de penser, de créer et d’aborder les défis."
+        },
+        "coming-soon": {
+            "title": "Et maintenant ?",
+            "title2": "De nouveaux projets arrivent",
+            "body": "Je travaille actuellement sur de nouvelles choses à partager. Repassez bientôt pour découvrir ce que je prépare."
         }
     }
 }
