@@ -10,7 +10,7 @@ import { Language } from './shared/enums/language.enums';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  protected readonly title = signal('site-vitrine');
+  protected readonly title = signal('ralph-lee-portfolio');
 
   constructor(private translate: TranslateService) {
     this.translate.setFallbackLang(Language.EN);

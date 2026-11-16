@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "site-vitrine": {
+    "ralph-lee-portfolio": {
       "projectType": "application",
       "schematics": {
           "@schematics/angular:component": {
@@ -62,10 +62,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "site-vitrine:build:production"
+              "buildTarget": "ralph-lee-portfolio:build:production"
             },
             "development": {
-              "buildTarget": "site-vitrine:build:development"
+              "buildTarget": "ralph-lee-portfolio:build:development"
             }
           },
           "defaultConfiguration": "development"
