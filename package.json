@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "postbuild": "node -e \"require('fs').copyFileSync('dist/ralph-lee-portfolio/browser/index.html','dist/ralph-lee-portfolio/browser/404.html')\""
   },
   "private": true,
   "packageManager": "npm@11.11.0",
