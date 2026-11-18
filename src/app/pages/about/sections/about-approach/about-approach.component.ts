@@ -21,7 +21,7 @@ export class AboutApproachComponent {
     {
       title: this.prefix + 'principle2.title',
       description: this.prefix + 'principle2.description',
-      example: this.prefix + 'principle1.example',
+      example: this.prefix + 'principle2.example',
     },
     {
       title: this.prefix + 'principle3.title',
